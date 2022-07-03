@@ -1,0 +1,12 @@
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\bin\Release\net6.0\BlazorPwaPushExample.Shared.deps.json
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\bin\Release\net6.0\BlazorPwaPushExample.Shared.dll
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\bin\Release\net6.0\BlazorPwaPushExample.Shared.pdb
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.csproj.AssemblyReference.cache
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.AssemblyInfoInputs.cache
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.AssemblyInfo.cs
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.csproj.CoreCompileInputs.cache
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.dll
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\refint\BlazorPwaPushExample.Shared.dll
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\BlazorPwaPushExample.Shared.pdb
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\Shared\obj\Release\net6.0\ref\BlazorPwaPushExample.Shared.dll

@@ -1,0 +1,3 @@
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\release\BlazorPwaPushExample.Shared.dll
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\release\BlazorPwaPushExample.Shared.deps.json
+D:\Tools\BlazorWebAssembly\Projects\Blazor-PWA-Push\BlazorPwaPush3\BlazorPwaPushExample\release\BlazorPwaPushExample.Shared.pdb
